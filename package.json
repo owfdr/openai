@@ -1,0 +1,26 @@
+{
+  "name": "openai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owfdr/openai.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "owfdr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owfdr/openai/issues"
+  },
+  "homepage": "https://github.com/owfdr/openai#readme",
+  "dependencies": {
+    "@ourworld/simple-env": "^0.1.0",
+    "openai": "^3.3.0",
+    "ramda": "^0.29.0"
+  }
+}
